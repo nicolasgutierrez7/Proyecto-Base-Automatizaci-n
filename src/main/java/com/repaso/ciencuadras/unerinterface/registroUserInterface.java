@@ -17,7 +17,7 @@ public class registroUserInterface {
     public static final Target BTN_NO_SOY_ROBOT= Target.the("Boton ckeck no soy robot").located(By.xpath("//span[@role='checkbox']"));
     public static final Target BTN_REGISTRARME = Target.the("Boton registrarme").located(By.xpath("//span[contains(text(),'Registrarme')]"));
     public static final Target BOTON_SESION = Target.the("Boton de la sesion").located(By.xpath("//a[@id='circleButton']"));
-    public static final Target NAME_SESION = Target.the("Nombre de la sesion").located(By.xpath("//p[contains(text(),'nsgutierrez011@gmail.com')]"));
+    public static final Target NAME_SESION = Target.the("Nombre de la sesion").located(By.xpath("//p[contains(text(),'nsgutierrez012@gmail.com')]"));
 
 
 
